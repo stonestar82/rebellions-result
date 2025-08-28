@@ -1,0 +1,12 @@
+*.cfg
+*.pyc
+dist/
+exec.build/
+exec.dist/
+*.spec
+build/
+*.pptx
+log/
+*.log
+*.zip
+release/
